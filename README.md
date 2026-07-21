@@ -1,4 +1,4 @@
-![Mi Banner](banner_jp.gif)
+<img src="assets/Banner_jp.gif?v=1" alt="jpablo-gz banner" />
 
 <div align="center">
   
@@ -25,6 +25,10 @@ I'm currently at the beginning of my professional journey, so there is still a l
 ---
 
 # 💻 My Skills
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3670A0)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="assets/Python.png" height="70" style="image-rendering: pixelated;" alt="Python" />
+  <img src="assets/C_plus.png" height="70" style="image-rendering: pixelated;" alt="C++" />
+  <img src="assets/Git.png" height="70" style="image-rendering: pixelated;" alt="Git" />
+</p>
+
+![Final Line](assets/Line.gif)
