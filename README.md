@@ -1,4 +1,4 @@
-![jpablo-gz banner](assets/Banner_jp.gif)
+![jpablo-gz banner](assets/Banner.gif)
 
 <div align="center">
   
