@@ -1,4 +1,4 @@
-<img src="assets/Banner_jp.gif?v=1" alt="jpablo-gz banner" />
+![jpablo-gz banner](assets/Banner_jp.gif)
 
 <div align="center">
   
@@ -7,7 +7,7 @@
 
 </div>
 
----
+![start Line](assets/Line.gif)
 
 # 💫 About Me
 Hi! I'm **José Pablo**, an Artificial Intelligence Engineering student from Mexico with a strong interest in **machine learning, computer vision, and computer graphics**.
@@ -31,4 +31,4 @@ I'm currently at the beginning of my professional journey, so there is still a l
   <img src="assets/Git.png" height="70" style="image-rendering: pixelated;" alt="Git" />
 </p>
 
-![Final Line](assets/Line.gif)
+![final Line](assets/Line.gif)
