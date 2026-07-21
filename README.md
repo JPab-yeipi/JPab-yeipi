@@ -28,9 +28,11 @@ I'm currently at the beginning of my professional journey, so there is still a l
 
 # 💻 My Skills
 <p>
-  <img src="assets/Python.png" height="70" style="image-rendering: pixelated;" alt="Python" />
-  <img src="assets/C_plus.png" height="70" style="image-rendering: pixelated;" alt="C++" />
-  <img src="assets/Git.png" height="70" style="image-rendering: pixelated;" alt="Git" />
+  <img src="assets/Python.png" height="60" style="image-rendering: pixelated;" alt="Python" />
+  <img src="assets/C_plus.png" height="60" style="image-rendering: pixelated;" alt="C++" />
+  <img src="assets/Git.png" height="60" style="image-rendering: pixelated;" alt="Git" />
 </p>
+
+---
 
 ![End Line](assets/Line.gif)
