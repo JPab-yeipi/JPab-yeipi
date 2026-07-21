@@ -1,4 +1,4 @@
-<img src="assets/Banner.gif?v=1" width="100%" style="image-rendering: pixelated;" alt="jpablo-gz banner" />
+<img src="assets/Banner_jp.gif?v=1" width="100%" style="image-rendering: pixelated;" alt="jpablo-gz banner" />
 
 <div align="center">
   <br>
