@@ -1,4 +1,4 @@
-![Mi Banner](assets/Banner_jp.gif)
+![Mi Banner](assets/banner.gif)
 
 <div align="center">
   
@@ -7,7 +7,7 @@
 
 </div>
 
-![Middle Line](assets/Line.gif)
+![Middle Line](assets/line.gif)
 
 ---
 
@@ -35,4 +35,4 @@ I'm currently at the beginning of my professional journey, so there is still a l
 
 ---
 
-![End Line](assets/Line.gif)
+![End Line](assets/line.gif)
