@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-Hi! I'm **José Pablo**, an Artificial Intelligence Engineering student from Mexico with a strong interest in **machine learning, computer vision, and computer graphics**.
+<!--Hi! I'm **José Pablo**, an Artificial Intelligence Engineering student from Mexico with a strong interest in **machine learning, computer vision, and computer graphics**.
 
 My goal is to become a **Machine Learning Engineer** with real-world experience developing reliable software and intelligent systems. I am especially interested in projects where artificial intelligence can be used to solve practical problems and create tools that are genuinely useful.
 
@@ -23,7 +23,9 @@ I'm currently at the beginning of my professional journey, so there is still a l
 
 🌱 Always learning<br>
 🚀 Always building<br>
-🎯 Always improving
+🎯 Always improving -->
+
+<img src="assets/about_me.svg" width="100%" alt="About me" />
 
 ---
 
