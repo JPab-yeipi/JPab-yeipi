@@ -1,24 +1,33 @@
-![Mi Banner](assets/banner.gif)
+<!-- Full-width profile banner -->
+<img src="assets/banner.gif" width="100%" alt="José Pablo profile banner" />
 
+<!-- Centered contact buttons -->
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/%20_Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jose-pablo-gz)
-[![Gmail](https://img.shields.io/badge/%20_Send_me_an_email-EA4335?style=for-the-badge)](mailto:josepablo.gz@outlook.com)
+
+  <!-- Opens LinkedIn profile -->
+  <a href="https://www.linkedin.com/in/jose-pablo-gz">
+    <img src="assets/Linkedin.png" height="50" alt="LinkedIn" />
+  </a>
+ 
+  <!-- Opens the default email app -->
+  <a href="mailto:josepablo.gz@outlook.com">
+    <img src="assets/email.png" height="50" alt="Email" />
+  </a>
 
 </div>
 
-![Middle Line](assets/line.gif)
+<br>
 
----
+<!-- Decorative animated divider -->
+<img src="assets/line.gif" width="100%" alt="" />
 
-# 💫 About Me
+## 💫 About Me
+
 Hi! I'm **José Pablo**, an Artificial Intelligence Engineering student from Mexico with a strong interest in **machine learning, computer vision, and computer graphics**.
 
 My goal is to become a **Machine Learning Engineer** with real-world experience developing reliable software and intelligent systems. I am especially interested in projects where artificial intelligence can be used to solve practical problems and create tools that are genuinely useful.
 
 I'm currently at the beginning of my professional journey, so there is still a lot I want to learn and improve. However, I am committed to practicing consistently and becoming a better developer with every project I build.
-
-<br>
 
 🌱 Always learning<br>
 🚀 Always building<br>
@@ -26,13 +35,14 @@ I'm currently at the beginning of my professional journey, so there is still a l
 
 ---
 
-# 💻 My Skills
+## 💻 My Skills
+
+<!-- Skill icons -->
 <p>
-  <img src="assets/Python.png" height="60" style="image-rendering: pixelated;" alt="Python" />
-  <img src="assets/C_plus.png" height="60" style="image-rendering: pixelated;" alt="C++" />
-  <img src="assets/Git.png" height="60" style="image-rendering: pixelated;" alt="Git" />
+  <img src="assets/python.png" height="70" alt="Python" />
+  <img src="assets/c_plusplus.png" height="70" alt="C++" />
+  <img src="assets/git.png" height="70" alt="Git" />
 </p>
 
----
-
-![End Line](assets/line.gif)
+<!-- Decorative animated divider -->
+<img src="assets/line.gif" width="100%" alt="" />
