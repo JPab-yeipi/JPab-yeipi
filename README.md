@@ -4,19 +4,11 @@
 <!-- Centered contact buttons -->
 <div align="center">
 
-  <!-- Opens LinkedIn profile -->
-  <a href="https://www.linkedin.com/in/jose-pablo-gz">
-    <img src="assets/linkedin.png" height="40" alt="LinkedIn" />
-  </a>
- 
-  <!-- Opens the default email app -->
-  <a href="mailto:josepablo.gz@outlook.com">
-    <img src="assets/email.png" height="40" alt="Email" />
-  </a>
+  <!-- Opens LinkedIn profile and email -->
+  <a href="https://www.linkedin.com/in/jose-pablo-gz"><img src="assets/linkedin.png" height="50" alt="LinkedIn" /></a>
+  <a href="mailto:josepablo.gz@outlook.com"><img src="assets/email.png" height="50" alt="Email" /></a>
 
 </div>
-
-<br>
 
 <!-- Decorative animated divider -->
 <img src="assets/line.gif" width="100%" alt="" />
